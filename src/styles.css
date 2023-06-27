@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'src/build/css/_variables.css';
+
+button {
+  width: 120px;
+  height: 50px;
+  background-color: var(--sd-theme-button-primary-background);
+}
