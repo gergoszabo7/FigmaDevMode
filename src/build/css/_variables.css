@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 27 Jun 2023 13:38:37 GMT
+ * Generated on Thu, 29 Jun 2023 08:39:10 GMT
  */
 
 :root {
@@ -137,6 +137,7 @@
   --sd-core-font-sizes-body: 16;
   --sd-core-font-sizes-sm: undefined;
   --sd-core-font-sizes-xs: undefined;
+  --sd-core-border: [object Object];
   --sd-light-fg-default: undefined;
   --sd-light-fg-muted: undefined;
   --sd-light-fg-subtle: undefined;
@@ -157,7 +158,7 @@
   --sd-dark-accent-on-accent: undefined;
   --sd-dark-accent-bg: undefined;
   --sd-dark-shadows-default: undefined;
-  --sd-theme-button-primary-background: #00ffae;
+  --sd-theme-button-primary-background: #fcff08;
   --sd-theme-button-primary-text: undefined;
   --sd-theme-button-primary: #000;
   --sd-theme-button-border-radius: undefined;
@@ -171,4 +172,6 @@
   --sd-theme-typography-h2-bold: [object Object];
   --sd-theme-typography-h2-regular: [object Object];
   --sd-theme-typography-body: [object Object];
+  --sd-button-color: #f3ff00;
+  --sd-button-border-radius: undefined;
 }
